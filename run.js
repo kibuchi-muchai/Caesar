@@ -1,1 +1,0 @@
-"C:\Users\kibuchi\Pictures\Screenshots\Screenshot (38).png"

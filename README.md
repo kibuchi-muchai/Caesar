@@ -11,3 +11,4 @@ To run the program, it is important to check if a Java sdk is installed
 Update gradle dependencies
 
 Execute the project through gradle run or /gradlew run
+![img.png](img.png)
